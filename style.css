@@ -1,0 +1,16 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #ecdca8;
+    display: grid;
+    place-items: center;
+}
+input{
+   padding: 10px 17px;
+    margin: 10px;
+   
+
+}
+label{
+    font-size: 3rem;
+}
